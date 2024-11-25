@@ -7,4 +7,4 @@
 * __Atividade 5:__ Formulário de idade;
 * __Atividade 6:__ Variável de dia;
 * __Atividade 7:__ Variável de bebida e valores;
-* __Atividade 1:__ Formulário de compra de ingressos.
+* __Atividade 8:__ Formulário de compra de ingressos.
